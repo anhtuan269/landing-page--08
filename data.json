@@ -1,0 +1,338 @@
+{    "logo": [
+        {
+            "id": 1,
+            "url": "/image/Logo.svg",
+            "link": "/"
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "text": "how it works",
+            "link": "feature",
+            "target": "_balnk"
+        },
+        {
+            "id": 2,
+            "text": "Blog",
+            "link": "blog",
+            "target": "_blank"
+        },
+        {
+            "id": 3,
+            "text": "Support",
+            "link": "support",
+            "target": "_blank"
+        }
+    ],
+    "social": [
+        {
+            "id": 1,
+            "url": "/image/twitter.png",
+            "alt": "twitter",
+            "link": "http://twitter.com",
+            "blank": "_blank"
+        },
+        {
+            "id": 2,
+            "url": "/image/product.png",
+            "alt": "product",
+            "link": "http://product.com",
+            "blank": "_blank"
+        },
+        {
+            "id": 1,
+            "url": "/image/github.png",
+            "alt": "github",
+            "link": "http://github.com",
+            "blank": "_blank"
+        },
+        {
+            "id": 1,
+            "url": "/image/reddit.png",
+            "alt": "reddit",
+            "link": "http://reddit.com",
+            "blank": "_blank"
+        },
+        {
+            "id": 1,
+            "url": "/image/bitcoin.png",
+            "alt": "bitcoin",
+            "link": "http://bitcoin.com",
+            "blank": "_blank"
+        },
+        {
+            "id": 1,
+            "url": "/image/stack.png",
+            "alt": "stack",
+            "link": "http://stack.com",
+            "blank": "_blank"
+        }
+    ],
+    "button": [
+        {
+            "id": 1,
+            "text": "Create wallet",
+            "bg": "blue",
+            "type":"hero"
+        },  {
+            "id": 2,
+            "text": "Subscribe",
+            "bg": "blue",
+            "type":"email"
+        }
+    ],
+    "heading": [
+        {
+            "id": 1,
+            "title": "Create your first decentralized wallet",
+            "description": "The easiest way to manage multiple cryptocurrency assets",
+            "sub_des": "",
+            "url": "",
+            "url_2": "",
+            "span": "",
+            "type": "hero"
+        },
+        {
+            "id": 2,
+            "title": "",
+            "description": "Dappy is light wallet powered by Blockstack. It uses Gaia decentralized storage and encryption option. Dappy doesn't store or proceed user private key, the all data are securely stored in the Gaia. Dappy was created by the BC Net that trust in crypto and decentralized applications.",
+            "sub_des": "",
+            "url": "",
+            "url_2": "",
+            "span": "",
+            "type": "dappy"
+        },
+        {
+            "id": 3,
+            "title": "Free and open source",
+            "description": "Fully open and transparent wallet. Our code is  ",
+            "sub_des": "and trusted by Blockstack Team.",
+            "url": "/image/source.png",
+            "url_2": "",
+            "span": "open source",
+            "type": "source"
+        },
+        {
+            "id": 4,
+            "title": "Multi-currencies",
+            "description": "Receive, send and store the most popular coins, like Bitcoin, Ethereum, Litecoin, Dash and lots more.",
+            "sub_des": "",
+            "span": "",
+            "type": "current",
+            "url": "/image/curent.png",
+            "url_2": ""
+        },
+        {
+            "id": 5,
+            "title": "Tokens",
+            "description": "Full support for any tokens on Ethereum network. Bitcoin tokens (Omnilayer) is coming soon.",
+            "url": "/image/token.png",
+            "sub_des": "",
+            "span": "",
+            "type": "token",
+            "url_2": ""
+        },
+        {
+            "id": 6,
+            "title": "Exchange",
+            "description": "In-app exchange is supported by ShapeShift, it allows to convert coins to each other in the most intuitive and easiest way.",
+            "url": "",
+            "sub_des": "",
+            "span": "",
+            "type": "exchange",
+            "url_2": "/image/exchange.png"
+        }
+    ],
+    "road": [
+        {
+            "id": 1,
+            "url": "/image/circle.png",
+            "bg": "",
+            "day": "May 2018",
+            "item_1": "Blockstack ",
+            "item_2": "Autorisation",
+            "item_3": "",
+            "type": "block"
+        },
+        {
+            "id": 2,
+            "bg": "",
+            "url": "/image/circle(1).png",
+            "day": "",
+            "item_1": "Decentralized ",
+            "item_2": "storage Gaia",
+            "item_3": "",
+            "type": "gaia"
+        },
+        {
+            "id": 3,
+            "url": "/image/circle(1).png",
+            "bg": "",
+            "day": "",
+            "item_1": "BTC, ETH, ETC, LTC, ",
+            "item_2": "BCH, BTG, DOGE, ",
+            "item_3": "DCR, DACH",
+            "type": "btc"
+        },
+        {
+            "id": 4,
+            "url": "/image/circle(2).png",
+            "day": "",
+            "item_1": "Support ",
+            "bg": "",
+            "item_2": "ERC20 tokens",
+            "item_3": "",
+            "type": "support"
+        },
+        {
+            "id": 5,
+            "url": "/image/circle(2).png",
+            "day": "",
+            "item_1": "Support",
+            "item_2": "Custom token",
+            "bg": "",
+            "item_3": "",
+            "type": "token"
+        },
+        {
+            "id": 6,
+            "url": "/image/circle(1).png",
+            "day": "June 2018",
+            "item_1": "Exchange powered ",
+            "bg": "",
+            "item_2": "by ShapeShift",
+            "item_3": "",
+            "type": "June"
+        },
+        {
+            "id": 7,
+            "url": "/image/blue.png",
+            "bg": "/image/arrow.png",
+            "day": "2018 – 2019",
+            "item_1": "Add more coins: ",
+            "item_2": "ZEC, DCR, XRP...",
+            "item_3": "",
+            "type": "2018"
+        },
+        {
+            "id": 8,
+            "url": "/image/white.png",
+            "bg": "/image/arrow.png",
+            "day": "May 2018",
+            "item_1": "Blockstack ",
+            "item_2": "contact list",
+            "item_3": "",
+            "type": "list"
+        },
+        {
+            "id": 9,
+            "url": "/image/white.png",
+            "day": "",
+            "item_1": "Support token",
+            "item_2": "for each coins",
+            "bg": "",
+            "item_3": "",
+            "type": "coin"
+        },
+        {
+            "id": 10,
+            "url": "/image/white.png",
+            "bg": "/image/arrow.png",
+            "day": "",
+            "item_1": "Support private key ",
+            "item_2": "in different formats",
+            "item_3": "",
+            "type": "key"
+        },
+        {
+            "id": 11,
+            "url": "/image/white.png",
+            "bg": "/image/arrow.png",
+            "day": "",
+            "item_1": "Multilanguage ",
+            "item_2": "support",
+            "item_3": "",
+            "type": "muti"
+        },
+        {
+            "id": 12,
+            "url": "/image/white.png",
+            "bg": "",
+            "day": "",
+            "item_1": "Different UI ",
+            "item_2": "themes",
+            "item_3": "",
+            "type": "themes"
+        },
+        {
+            "id": 13,
+            "url": "/image/white.png",
+            "bg": "/image/arrow.png",
+            "day": "",
+            "item_1": "Ledger, Trezor ",
+            "item_2": "cintegrations",
+            "item_3": "",
+            "type": "trezor"
+        },
+        {
+            "id": 14,
+            "url": "/image/white.png",
+            "bg": "/image/arrow.png",
+            "day": "",
+            "item_1": "In-app marketplace ",
+            "item_2": "or DApp browser",
+            "item_3": "",
+            "type": "app"
+        },
+        {
+            "id": 15,
+            "url": "/image/dots.png",
+            "day": "",
+            "item_1": "and lots more ",
+            "item_2": "",
+            "item_3": "",
+            "type": "more"
+        }
+    ],
+    "about": [
+        {
+            "id": 1,
+            "title": "About",
+            "item": "Introducing",
+            "link": "introduce",
+            "item_2": "Terms of Service",
+            "link_2": "service",
+            "item_3": "Privacy Policy",
+            "link_3": "privacy ",
+            "target": "_balnk"
+        }
+    ],
+    "contact": [
+        {
+            "id": 1,
+            "email": "hello@dappywallet.com",
+            "title": "Contact"
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "title": "Newsletter",
+            "description": "Please enter your e-mail if want to receive updates.",
+            "place_holder": "Your e-mail",
+            "button": "Subscribe"
+        }
+    ],
+    "copy": [
+        {
+            "id": 1,
+            "design": "Designed by",
+            "auth": "Hodl Horse",
+            "link_auth": "hold",
+            "dev": "Developed by",
+            "link_dev": "company",
+            "by": "BC Net"
+        }
+    ]
+}
